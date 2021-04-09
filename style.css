@@ -1,0 +1,30 @@
+.title {
+    background-color: mediumspringgreen;
+    border: dotted darkgreen;
+    text-align: center;
+    display:flex;
+    color: slategray;
+    justify-content: space-between;
+}
+.header{
+    display:flex;
+    justify-content: space-evenly;
+    border: double orange;
+    background-color: yellow;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.origami{
+    border-radius: 100px;
+    border:solid purple;
+    width: 330px;
+    
+}
+.grid img{
+    border: 4px;
+    border-radius: 60px;
+}
